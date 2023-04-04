@@ -1,0 +1,27 @@
+void main() {
+ 
+  
+  
+ print("Bismillah");
+ //data types
+  // string
+  String name ="Muhammad Taha";
+  
+  print("Student Name ${name}");
+  
+  num value1=03150202449;
+  print(value1);
+  
+  String email="Muhammadtaha11111@gmail.com";
+  print("Gmail ${email}");
+  
+  num value2=19;
+  print("Age ${value2}");
+  
+  String Cource ="Ios Mobile App development";
+  print("Cource Name ${Cource}");
+    
+  
+  
+  
+}

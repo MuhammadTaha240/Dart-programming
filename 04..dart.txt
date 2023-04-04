@@ -1,0 +1,103 @@
+void main() {
+  int a = 10;
+    int b = 30;
+  String calmode="mul" ;
+ 
+  
+  switch (calmode){
+    case "add":   
+    {
+      
+        int c=a+b;
+        print ("By adding answer is ${c}");
+        break;
+      }
+      
+      
+      case "mul":   
+      {
+  
+    int c=a*b;
+        print ("By multiplying answer is ${c}");
+        break;
+      }
+      
+      case "divide":   
+      
+ void main() {
+  int a = 10;
+    int b = 30;
+  String calmode="mul" ;
+ 
+  
+  switch (calmode){
+    case "add":   
+    {
+      
+        int c=a+b;
+        print ("By adding answer is ${c}");
+        break;
+      }
+      
+      
+      case "mul":   
+      {
+  
+    int c=a*b;
+        print ("By multiplying answer is ${c}");
+        break;
+      }
+      
+      case "divide":   
+   void main() {
+  int a = 10;
+    int b = 30;
+  String calmode="" ;
+ 
+  
+  switch (calmode){
+    case "add":   
+    {
+      
+        int c=a+b;
+        print ("By adding answer is ${c}");
+        break;
+      }
+      
+      
+      case "mul":   
+      {
+  
+    int c=a*b;
+        print ("By multiplying answer is ${c}");
+        break;
+      }
+      
+      case "divide":   
+      
+      {
+
+int c=a~/b;
+        print ("By dividing answer is ${c}");
+        break;
+      }
+      
+      
+      
+       case "sub":   
+      
+      {
+
+int c=a-b;
+        print ("By subtracting answer is ${c}");
+        break;
+      }
+    default:{print("its not calmode");break;}
+      
+      
+
+  }
+
+}
+
+ 

@@ -1,0 +1,67 @@
+void main() {
+ 
+  String days="Mon" ;
+  
+  switch (days){
+    case "mon":
+    case "monday":
+      {
+        print ("its Monday");
+        break;
+      }
+      
+    case "tue":
+    case "tuesday":
+      {
+                print ("its Tuesday");
+        break;
+      }
+    case "wed":
+    case "wednesday":
+      {
+        
+        print ("its wednesday");
+        break;
+      }
+        
+    case "thu":
+    case "thursday":
+      {
+        
+        print ("its thursday");
+        break;
+      }
+        
+    case "fri":
+    case "friday":
+      {
+        
+        print ("its friday");
+        break;
+      }
+    case "sat":
+    case "saturday":
+      {
+        
+        print ("its saturday");
+        break;  
+      }
+        
+    case "sun":
+          case "sunday":
+
+      {
+        print ("its sunday");
+        break;
+      }
+
+      
+    default:{print ("its not a week name ");
+            
+            break;
+            
+       }
+  }
+
+
+}

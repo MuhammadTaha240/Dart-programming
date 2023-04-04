@@ -1,0 +1,83 @@
+void main() {
+ 
+  String name ="taha";
+  String email= "t@gmail.com";
+  String pass="123";
+  
+  
+
+  String emaill= "t@gmail.com";
+  String passl="123";
+  
+  
+  if
+    (email== emaill && pass==passl){
+    
+    
+   
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  num eng,urdu,isl,maths,pst,bio,computer,phy,chem,arts;
+    
+    
+  eng=100;
+  urdu=90;
+  isl=70;
+  maths=60;
+  pst=30;
+  bio=60;
+  computer=60;
+  phy=70;
+  chem=60;
+  arts=30;
+  
+  
+  num obtmarks= eng+urdu+isl+maths+pst+bio+computer+phy+chem+arts;
+  
+  
+  num per=obtmarks/1000*100;
+  
+  
+  print("Obtained Marks =${obtmarks}");
+  print("percentage is${per}%");
+  
+  
+  
+   if(per<=100 && per >=80)
+    {
+      print("Grade A+");
+      
+    }else if(per<=79 && per >=70)
+    {
+      print("Grade A");
+      
+    } else  if(per<=69 && per >=60)
+    {
+      print("Grade B");
+      
+    } else  if(per<=59 && per >=50)
+    {
+      print("Grade C");
+      
+    } else  if(per<=49 && per >=40)
+    {
+      print("Grade D");
+      
+    } else{
+      
+       print("Grade Fail");
+  
+
+  
+}}
+  else{
+    print ("incorrect password");
+  }
+}
